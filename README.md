@@ -1,3 +1,3 @@
 # projeto_css
-Criação de uma página para treinamento do CSS
-![Pagina do Curso](https://github.com/viannawp/projeto_css/assets/88806375/e529b113-7d1c-4c1e-9dd5-42d065416b35)
+Criação de uma página para treinamento do CSS.
+![Pagina do Curso](https://github.com/viannawp/projeto_css/assets/88806375/9e834505-15f9-426c-98cd-dbc3a46215b5)
